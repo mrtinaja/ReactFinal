@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+
+@font-face {
+  font-family: 'Source Code Pro', monospace;
+  src: url(https://fonts.google.com/specimen/Source+Code+Pro);
+  font-size:large;
+}
+
+
+
+.App {
+  padding:0;
+  margin:0;
+  max-width: auto !important;
+  justify-content: center;
+  align-items: center;
+
+
+
+}
+  
+  body {
+justify-content: center;
+    margin: auto;
+  
+    text-align: center;
+  padding:0;
+  align-items: center;
+  font-style:inherit;
+  
+  
+
+  }
+
+
+#titulo_id {
+
+font-size: 40px;
+color:aliceblue;
+
+
+
+
+
+   
+
+
+}
+
+
+
+
+  #mensaje_id {
+    text-align: center;
+    justify-content: center;
+    font-size: 150%;
+    font-size: 30px;
+color:black;
+margin-right: 59rem;
+
+
+  
+  
+  
+
+    
+  }  
+  
+  
+  #producto_id {
+  padding: 15px 32px;
+    font-size: 20px;
+    text-align: center;
+ align-items: center;
+    justify-content: center;
+    
+  }
+  #name_id {
+    font-size: 22px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:1rem;
+    margin-top: 1rem;
+  }
+
+  #precio_id {
+    font-size: 24px;
+    align-items: center;
+    justify-content: center;
+   
+  }
+  #photoUrl_id {
+    align-content: center;
+    justify-content: "center";
+    align-items: "center";
+  
+   
+  }
+
+  #description_id {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+
+  }
+
+  #botonCompra_id{
+    align-items: center;
+    justify-content: center;
+    width: 22%;
+    display:grid;
+    margin-left: 2rem;
+    margin-top: 1rem;
+ 
+  
+  }
+
+
+  #card_id{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 100%;
+    height: 100%;
+  }
+  #link {
+    color: white;
+  }
+
+#alta_id {
+  
+  margin-right: 5px;
+margin-left: 5px;
+}
+
+#ingresar_id {
+ 
+  margin-right: 1rem;
+  margin-left: 5px;
+
+}
+
+#catalogo_id {
+margin-top: 0px;
+  margin-right: 6px;
+  margin-left: 5px;
+}
+
+#flechaIzq_id{
+  margin-right: 5px;
+margin-left: 5px;
+}
+#flechaDer_id{
+  margin-right: 5px;
+margin-left: 5px;
+}
+#Hola_id{
+margin-left: 5px;
+   margin-top:1px;
+}
+#flechitas_id{
+  margin-right: 7px;
+  margin-left: 7px;
+}
+
+#parrafo_id{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+#button1_id {
+  background-color: white;
+  border: none;
+  color: #BF0089;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+#parrafo_id{
+  width: 700px;
+  margin-left: 18rem;
+}
